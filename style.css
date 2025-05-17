@@ -167,9 +167,9 @@ form button[type="submit"] {
   background-color: #000;
 }
 
-@supports (background-image: url("../images/hero-test.webp")) {
+@supports (background-image: url("../images/hero.webp")) {
   .hero-bg {
-    background-image: url("../images/hero-test.webp");
+    background-image: url("../images/hero.webp");
   }
 }
 
